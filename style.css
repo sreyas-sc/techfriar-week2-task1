@@ -202,7 +202,7 @@ nav {
 /* QUICK BOOK STYLING */
 
 #quickBook {
-    background-image: url(../resources/assets/Maskgroup.svg);
+    background-image: url(./resources/assets/Maskgroup.svg);
     height: 227px;
     background-position: center;
     background-repeat: no-repeat;
