@@ -6,9 +6,14 @@
 ## File structure
 1. index.html(index html page)
 2. style.css(Style sheet)
-3. Resources(Folder)
-   |_Assets(icnons)
-   |_Banners(background images)
+Resources
+│
+├── Assets
+│   └── icons
+│
+└── Banners
+    └── background images
+
 
 ## Overview
 
