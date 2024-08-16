@@ -4,15 +4,14 @@
 [https://sreyas-sc.github.io/e-dashboard/](https://sreyas-sc.github.io/techfriar-week2-task1/)
 
 ## File structure
-1. index.html(index html page)
-2. style.css(Style sheet)
-Resources
-│
-├── Assets
-│   └── icons
-│
-└── Banners
-    └── background images
+
+- **index.html**: This is the main HTML file for the project.
+- **style.css**: This is the main stylesheet that styles the HTML elements.
+
+### Resources
+- **Assets/icons**: Contains various icons used throughout the project.
+- **Banners/background images**: Contains images used as background banners for the project.
+
 
 
 ## Overview
